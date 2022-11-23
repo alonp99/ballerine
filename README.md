@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <a href="https://ballerine.io" title="Ballerine - Open-source Infrastructure for Identity and Risk management.">
@@ -6,6 +5,8 @@
 </a>
 
 # Ballerine is an Open-source Infrastructure for User Identity and Risk Management
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falonp99%2Fballerine.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falonp99%2Fballerine?ref=badge_shield)
+
 
 <h5>This project's mission is to help any company verify its customers’ identity while providing an amazing user experience.</h5>
 </div>
@@ -454,3 +455,7 @@ Leave us your email on our mailing list and we'll let you know whenever we relea
 ___
 <i>As you can see, most apps and packages are still private git submodules. We are working on migrating them to this monorepo.</i>\
 <i>If you already want to start using them or want to get involved - reach out to us at [oss@ballerine.io](mailto:oss@ballerine.io).</i>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falonp99%2Fballerine.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falonp99%2Fballerine?ref=badge_large)
